@@ -1,0 +1,9 @@
+{
+  "name": "CareConnect Healthcare",
+  "description": "A comprehensive healthcare mobile-optimized web application featuring patient/doctor portals, appointment booking, health monitoring, and AI-powered symptom checking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
